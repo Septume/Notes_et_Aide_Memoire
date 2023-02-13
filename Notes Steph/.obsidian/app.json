@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "tabSize": 2,
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "fr"
+  ],
+  "useTab": false,
+  "attachmentFolderPath": "./_attachments",
+  "newFileLocation": "current",
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "readableLineLength": true,
+  "defaultViewMode": "preview",
+  "showInlineTitle": false,
+  "legacyEditor": false
+}

@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "484f881607a32117",
+    "type": "split",
+    "children": [
+      {
+        "id": "b98d7d8f4493e512",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Références/Angular/Programmation réactive.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15f4f7a38f8eda8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18df7cdf445fec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73817d1c7a6ca7d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c69050e812a37765",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c92d923b4ff78bab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f831b586ef62c72",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326
+  },
+  "right": {
+    "id": "a46fbbc8507eb604",
+    "type": "split",
+    "children": [
+      {
+        "id": "1676eef9c0a1caaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc538dc27838d01a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Références/Angular/Programmation réactive.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dc768886bad4e55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Références/Angular/Programmation réactive.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe5c1cf3083b923d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb073266c3f0b994",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Références/Angular/Programmation réactive.md"
+              }
+            }
+          },
+          {
+            "id": "6c03ca6c54df3474",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b98d7d8f4493e512",
+  "lastOpenFiles": [
+    "Références/Angular/Formulaires.md",
+    "Références/Angular/Directives.md",
+    "Références/Angular/Components.md",
+    "Références/Angular/Routes.md",
+    "Références/Angular/Pipes.md",
+    "Références/Angular/- Notes.md",
+    "Références/Angular/Angular CLI.md",
+    "Références/Angular/Évènements.md",
+    "Références/Angular/Injection de propriétés.md",
+    "Références/Angular/Services.md"
+  ]
+}

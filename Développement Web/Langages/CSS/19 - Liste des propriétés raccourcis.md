@@ -1,0 +1,33 @@
+# Liste des propriétés raccourcis
+
+- `margin` (`margin-top`, `margin-right`, `margin-bottom` et `margin-left)`
+- `padding` (`padding-top`, `padding-right`, `padding-bottom` et `padding-left`)
+- `overflow` (`overflow-x` et `overflow-y`)
+- `background` (`background-clip`, `background-color`, `background-image`, `background-origin`, `background-position`, `background-repeat`, `background-size`, et `background-attachment`)
+- `outline` (`outline-style`, `outline-width` et `outline-color`)
+- `border` (`border-width`, `border-style` et `border-color`)
+- `border-top` ( `border-top-width`, `border-top-style` et `border-top-color`)
+- `border-bottom`
+- `border-left`
+- `border-right`
+- `border-width` (`border-top-width`, etc..)
+- `border-color`
+- `border-style`
+- `border-radius` (`border-top-left-radius`, `border-top-right-radius`, `border-bottom-right-radius` et `border-bottom-left-radius`)
+- `font` (`font-variant`, `font-weight`, `font-stretch`, `font-size`, `line-height` et `font-family`)
+- `text-decoration` (`text-decoration-line`, `text-decoration-color` et `text-decoration-style`)
+- `list-style` (`list-style-type`, `list-style-image` et `list-style-position`)
+- `columns` (`column-width` et `column-count`)
+- `column-rule` (`column-rule-width`, `column-rule-style` et `column-rule-color`)
+- `flex` (`flex-grow`, `flex-shrink` et `flex-basis`)
+- `flex-flow` (`flex-direction` et `flex-wrap`)
+- `grid` (`grid-template-rows`, `grid-template-columns` et `grid-template-areas`)
+- `grid-area` (`grid-row-start`, `grid-column-start`, `grid-row-end` et `grid-column-end`)
+- `grid-row` `(grid-column-start` et `grid-column-end`)
+- `grid-column` (`grid-row-start` et `grid-row-end`)
+- `grid-template` (`grid-template-rows`, `grid-template-columns` et `grid-template-areas` ou `grid-auto-rows`, `grid-auto-columns` et `grid-auto-flow`).
+- `place-content` (`align-content` et `justify-content`)
+- `place-items` (`align-items` et `justify-items`)
+- `place-self` (`align-self` et `justify-self`)
+- `transition` (`transition-property`, `transition-duration`, `transition-timing-function` et `transition-delay`)
+- `animation` (`animation-name`, `animation-duration`, `animation-timing-function`, `animation-delay`, `animation-iteration-count`, `animation-direction`, `animation-fill-mode` et `animation-play-state`)

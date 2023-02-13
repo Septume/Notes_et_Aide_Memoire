@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Formulaires - Reactive forms",
+      "path": "Références/Angular/Formulaires - Reactive forms.md"
+    },
+    {
+      "basename": "Formulaires - Formulaires complexes",
+      "path": "Références/Angular/Formulaires - Formulaires complexes.md"
+    },
+    {
+      "basename": "Formulaires",
+      "path": "Références/Angular/Formulaires.md"
+    },
+    {
+      "basename": "Évènements",
+      "path": "Références/Angular/Évènements.md"
+    },
+    {
+      "basename": "Directives",
+      "path": "Références/Angular/Directives.md"
+    },
+    {
+      "basename": "Components standalone",
+      "path": "Références/Angular/Components standalone.md"
+    },
+    {
+      "basename": "Components",
+      "path": "Références/Angular/Components.md"
+    },
+    {
+      "basename": "Bonnes pratiques",
+      "path": "Références/Angular/Bonnes pratiques.md"
+    },
+    {
+      "basename": "API in-memory Web",
+      "path": "Références/Angular/API in-memory Web.md"
+    },
+    {
+      "basename": "Animations",
+      "path": "Références/Angular/Animations.md"
+    },
+    {
+      "basename": "8 - Tableaux",
+      "path": "Références/Bootstrap/8 - Tableaux.md"
+    },
+    {
+      "basename": "2 - Grille",
+      "path": "Références/Bootstrap/2 - Grille.md"
+    },
+    {
+      "basename": "3 - Traitement de données",
+      "path": "Références/Linux/3 - Traitement de données.md"
+    },
+    {
+      "basename": "1 - Introduction au Bash",
+      "path": "Références/Linux/1 - Introduction au Bash.md"
+    },
+    {
+      "basename": "XML",
+      "path": "Références/XML/XML.md"
+    },
+    {
+      "basename": "Wordpress Starter theme Underscores",
+      "path": "Références/Wordpress/Wordpress Starter theme Underscores.md"
+    },
+    {
+      "basename": "Wordpress Développement de thème",
+      "path": "Références/Wordpress/Wordpress Développement de thème.md"
+    },
+    {
+      "basename": "Variables",
+      "path": "Références/JavaScript/Variables.md"
+    },
+    {
+      "basename": "- Intro",
+      "path": "Références/Angular/Angular Material/- Intro.md"
+    },
+    {
+      "basename": "URI",
+      "path": "Références/-Génréral/URI.md"
+    },
+    {
+      "basename": "Tests",
+      "path": "Références/-Génréral/Tests.md"
+    },
+    {
+      "basename": "Sécurité des applications Web",
+      "path": "Références/-Génréral/Sécurité des applications Web.md"
+    },
+    {
+      "basename": "Same-origin policy",
+      "path": "Références/-Génréral/Same-origin policy.md"
+    },
+    {
+      "basename": "Programmation orienté objet",
+      "path": "Références/-Génréral/Programmation orienté objet.md"
+    },
+    {
+      "basename": "OWASP",
+      "path": "Références/-Génréral/OWASP.md"
+    },
+    {
+      "basename": "JSON",
+      "path": "Références/-Génréral/JSON.md"
+    },
+    {
+      "basename": "Composants Web",
+      "path": "Références/-Génréral/Composants Web.md"
+    },
+    {
+      "basename": "Chemin critique du rendu",
+      "path": "Références/-Génréral/Chemin critique du rendu.md"
+    },
+    {
+      "basename": "Bases de données relationnelles",
+      "path": "Références/-Génréral/Bases de données relationnelles.md"
+    },
+    {
+      "basename": "APIs REST",
+      "path": "Références/-Génréral/APIs REST.md"
+    },
+    {
+      "basename": "Techniques Responsive Design",
+      "path": "HowTos/Techniques Responsive Design.md"
+    },
+    {
+      "basename": "iPhone X et le notch",
+      "path": "HowTos/iPhone X et le notch.md"
+    },
+    {
+      "basename": "Déploiement d'une app Angular sur FIrebase",
+      "path": "HowTos/Déploiement d'une app Angular sur FIrebase.md"
+    },
+    {
+      "basename": "CSS - Typographie fluide",
+      "path": "HowTos/CSS - Typographie fluide.md"
+    },
+    {
+      "basename": "CSS - Taille police - Astuce des 62,5 %",
+      "path": "HowTos/CSS - Taille police - Astuce des 62,5 %.md"
+    },
+    {
+      "basename": "CSS - Choisir une méthode de positionnement",
+      "path": "HowTos/CSS - Choisir une méthode de positionnement.md"
+    },
+    {
+      "basename": "CSS - Centrer des éléments",
+      "path": "HowTos/CSS - Centrer des éléments.md"
+    },
+    {
+      "basename": "CSS - Cacher des éléments",
+      "path": "HowTos/CSS - Cacher des éléments.md"
+    },
+    {
+      "basename": "Configuration Ubuntu Server",
+      "path": "HowTos/Configuration Ubuntu Server.md"
+    },
+    {
+      "basename": "Config-NAS-RPI",
+      "path": "Config/Config-NAS-RPI.md"
+    },
+    {
+      "basename": "VS code - Shortcut",
+      "path": "Cheatsheet/VS code - Shortcut.md"
+    },
+    {
+      "basename": "VS code - CLI",
+      "path": "Cheatsheet/VS code - CLI.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Cheatsheet/Obsidian.md"
+    },
+    {
+      "basename": "Mardown",
+      "path": "Cheatsheet/Mardown.md"
+    },
+    {
+      "basename": "Emmet",
+      "path": "Cheatsheet/Emmet.md"
+    },
+    {
+      "basename": "4 - Manipulation du DOM",
+      "path": "Références/jQuery/4 - Manipulation du DOM.md"
+    },
+    {
+      "basename": "1 - Introduction",
+      "path": "Références/jQuery/1 - Introduction.md"
+    },
+    {
+      "basename": "Debogage",
+      "path": "Références/JavaScript/Debogage.md"
+    },
+    {
+      "basename": "Fonctions",
+      "path": "Références/JavaScript/Fonctions.md"
+    },
+    {
+      "basename": "Models",
+      "path": "Références/NodeJS/Sequelize/Models.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

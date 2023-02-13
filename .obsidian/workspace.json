@@ -11,8 +11,13 @@
             "id": "dfa62b30b612a876",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Liste DEV Optimisation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Liste DEV Optimisation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Liste DEV Optimisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Liste DEV Optimisation.md"
+              }
             }
           }
         ]
@@ -138,7 +147,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5a425f73888bac29",
+  "active": "dfa62b30b612a876",
   "lastOpenFiles": [
     "Développement Web/Cyber-Sec/Attaques courantes.md",
     "CyberSec/Injection SQL.md",

@@ -8,19 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfa62b30b612a876",
+            "id": "e2c91447e2c6f7aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liste DEV Optimisation.md",
+                "file": "Notes Steph/Références/NodeJS/Express/- Intro.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f7a6a1e74653786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement Web/Node.JS/Démarrer avec Node.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cd9cc44b20818a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement Web/Node.JS/CORS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8c83285e8baf623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes Steph/Références/NodeJS/Réglages du CORS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liste DEV Optimisation.md",
+                "file": "Développement Web/Node.JS/CORS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liste DEV Optimisation.md",
+                "file": "Développement Web/Node.JS/CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liste DEV Optimisation.md"
+                "file": "Développement Web/Node.JS/CORS.md"
               }
             }
           }
@@ -147,17 +187,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "dfa62b30b612a876",
+  "active": "4cd9cc44b20818a7",
   "lastOpenFiles": [
-    "Développement Web/Cyber-Sec/Attaques courantes.md",
-    "CyberSec/Injection SQL.md",
-    "CyberSec/XSS.md",
-    "CyberSec/CSRF.md",
-    "Développement Web/FrameWork/React/Protection XSS React.md",
-    "CyberSec/Protect/CrowdSec.md",
-    "Développement Web/Cyber-Sec/XSS (Cross ).md",
-    "Développement Web/FrameWork/React/Static Site Generator/Next.js.md",
-    "Développement Web/FrameWork/React/React Kook Form.md",
-    "Développement Web/FrameWork/React/A etudier (bonne pratique).md"
+    "Développement Web/Node.JS/Démarrer avec Node.md",
+    "Notes Steph/Références/NodeJS/Réglages du CORS.md",
+    "Notes Steph/Références/HTTP/Cross-origin resource sharing (cors).md",
+    "Notes Steph/Références/NodeJS/Express/- Intro.md",
+    "Notes Steph/Références/NodeJS/- Intro.md",
+    "Notes Steph/Références/NodeJS/_attachments/express-middleware.png",
+    "Notes Steph/Références/NodeJS/Express/Helmet.md",
+    "Notes Steph/Références/NodeJS/Express/Routes.md",
+    "Notes Steph/Références/NodeJS/bcrypt.md",
+    "Notes Steph/Cheatsheet/Mardown.md"
   ]
 }

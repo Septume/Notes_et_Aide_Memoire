@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75e93395db428d77",
+        "id": "27f38b0d7fa22726",
         "type": "tabs",
         "children": [
           {
-            "id": "e2c91447e2c6f7aa",
+            "id": "253fb076cef20268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes Steph/Références/NodeJS/Express/- Intro.md",
+                "file": "Développement Web/React/Next.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3f7a6a1e74653786",
+            "id": "ae6d5ff3b496be71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Développement Web/Node.JS/Démarrer avec Node.md",
+                "file": "Développement Web/React/Tailwindcss/Installation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "4cd9cc44b20818a7",
+            "id": "dc758ccb27888688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Développement Web/Node.JS/CORS.md",
+                "file": "Développement Web/React/Tailwindcss/Installation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,38 @@
             }
           },
           {
-            "id": "d8c83285e8baf623",
+            "id": "377ceb79c13397da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes Steph/Références/NodeJS/Réglages du CORS.md",
+                "file": "Développement Web/React/React Router/Sans titre.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24d98d1f58769a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A. Syntaxe MarkDown.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12b343a7524a10cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement Web/React/Tailwindcss/Responsive.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Développement Web/Node.JS/CORS.md",
+                "file": "Développement Web/React/React Router/Sans titre.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Développement Web/Node.JS/CORS.md",
+                "file": "Développement Web/React/React Router/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Développement Web/Node.JS/CORS.md"
+                "file": "Développement Web/React/React Router/Sans titre.md"
               }
             }
           }
@@ -187,17 +213,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4cd9cc44b20818a7",
+  "active": "377ceb79c13397da",
   "lastOpenFiles": [
-    "Développement Web/Node.JS/Démarrer avec Node.md",
-    "Notes Steph/Références/NodeJS/Réglages du CORS.md",
-    "Notes Steph/Références/HTTP/Cross-origin resource sharing (cors).md",
-    "Notes Steph/Références/NodeJS/Express/- Intro.md",
-    "Notes Steph/Références/NodeJS/- Intro.md",
-    "Notes Steph/Références/NodeJS/_attachments/express-middleware.png",
-    "Notes Steph/Références/NodeJS/Express/Helmet.md",
-    "Notes Steph/Références/NodeJS/Express/Routes.md",
-    "Notes Steph/Références/NodeJS/bcrypt.md",
-    "Notes Steph/Cheatsheet/Mardown.md"
+    "Développement Web/React/Tailwindcss/Installation.md",
+    "Développement Web/React/React Router/Sans titre.md",
+    "A. Syntaxe MarkDown.md",
+    "Développement Web/React/Tailwindcss/Responsive.md",
+    "Développement Web/React/Next.js.md",
+    "Développement Web/React/React Router/React Router.md",
+    "Développement Web/React/React Hook Form.md",
+    "Développement Web/React/React Icone.md",
+    "Développement Web/React/1. Create-React-App.md",
+    "Développement Web/React/Tailwindcss/MT MR MD ML.md"
   ]
 }

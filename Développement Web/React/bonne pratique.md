@@ -1,0 +1,1 @@
+mettre `<main></main>` pour les Pages d'écran

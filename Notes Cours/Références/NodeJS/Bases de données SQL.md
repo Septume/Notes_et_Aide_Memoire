@@ -75,7 +75,7 @@ Inconvénients :
 
 ## ORM
 
-Voir [[Notes Steph/Références/NodeJS/Sequelize/- Intro]]
+Voir [[Notes Cours/Références/NodeJS/Sequelize/- Intro]]
 
 Ajoute une couche d'abstraction en mappant un enregistrement de la  base de données à un objet JavaScript . Cela permet d'opérer directement sur l'objet représentant l'enregistrement au lieu d'utiliser directement des requêtes SQL
 

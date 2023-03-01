@@ -176,3 +176,18 @@ function MyForm() {
 }
 
 ```
+
+```sql
+-- Création de Table "users"
+
+CREATE TABLE IF NOT EXISTS users (
+	id SERIAL PRIMARY KEY,
+	username VARCHAR(50),
+	password VARCHAR(50),
+	email VARCHAR(50),
+	registration_date DATE,
+	last_connection DATE
+);
+
+SELECT * FROM users;
+```

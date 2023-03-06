@@ -21,6 +21,97 @@
             }
           },
           {
+            "id": "e9ce826a7094853d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement Web/Cyber-Sec/Bonne prattique.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaf45862754a4cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58a07658962b8d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/1. RGPD.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c36da45dd6d5a601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f61e8554f61038c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/3. CNIL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7588c81f5ccea4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "add256fd2269f3b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d61a42d2695cc4e9",
             "type": "leaf",
             "state": {
@@ -30,7 +121,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -96,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Développement Web/Git/Remote.md",
+                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Développement Web/Git/Remote.md",
+                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Développement Web/Git/Remote.md"
+                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md"
               }
             }
           }
@@ -157,8 +249,19 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6aac0a0b92d39f60",
+  "active": "add256fd2269f3b1",
   "lastOpenFiles": [
+    "Développement Web/Cyber-Sec/OWASP/Sans titre/1. RGPD.md",
+    "Développement Web/Cyber-Sec/OWASP/OWASP Top Ten/Top 10 des Attaques.md",
+    "Développement Web/Cyber-Sec/OWASP/OWASP Top Ten",
+    "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
+    "Développement Web/Cyber-Sec/OWASP/Sans titre/4. OWASP.md",
+    "Développement Web/Cyber-Sec/OWASP/Sans titre/3. CNIL.md",
+    "Développement Web/Cyber-Sec/OWASP/Sans titre/2. PCI DSS.md",
+    "Développement Web/Cyber-Sec/OWASP/Sans titre",
+    "Développement Web/Cyber-Sec/OWASP",
+    "Développement Web/Cyber-Sec/Bonne prattique.md",
+    "Développement Web/Git/Remote.md",
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 13-00-35.png",
     "DOSSIER PRO/DOSSIER Professionnel/Game-Crafting-Simulator/Activité 3.md",
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-09-01.png",
@@ -187,14 +290,6 @@
     "DOSSIER PRO/DOSSIER Professionnel/imges",
     "Développement Web/Base de Données/Trigger.md",
     "Pense-Bête/A. Syntaxe MarkDown.md",
-    "Pense-Bête/UML.md",
-    "Pense-Bête/Ternaire JS.md",
-    "Pense-Bête/Liste DEV Optimisation.md",
-    "Sans titre.md",
-    "Pense-Bête/README.md",
-    "Pense-Bête/React.md",
-    "Pense-Bête/Note JS.md",
-    "Pense-Bête/Mémos.md",
     "Pense-Bête",
     "DOSSIER PRO/DOSSIER Professionnel/Game-Crafting-Simulator",
     "DOSSIER PRO/DOSSIER Professionnel/Food-Mine",

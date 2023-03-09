@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/3. CNIL.md",
+                "file": "STAGE/BDD STAGE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,6 +112,19 @@
             }
           },
           {
+            "id": "4bbe29be1ce7e390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAGE/BDD STAGE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d61a42d2695cc4e9",
             "type": "leaf",
             "state": {
@@ -122,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -188,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
+                "file": "STAGE/BDD STAGE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
+                "file": "STAGE/BDD STAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md"
+                "file": "STAGE/BDD STAGE.md"
               }
             }
           }
@@ -249,15 +262,20 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "add256fd2269f3b1",
+  "active": "5f61e8554f61038c",
   "lastOpenFiles": [
-    "Développement Web/Cyber-Sec/OWASP/Sans titre/1. RGPD.md",
-    "Développement Web/Cyber-Sec/OWASP/OWASP Top Ten/Top 10 des Attaques.md",
-    "Développement Web/Cyber-Sec/OWASP/OWASP Top Ten",
-    "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
-    "Développement Web/Cyber-Sec/OWASP/Sans titre/4. OWASP.md",
     "Développement Web/Cyber-Sec/OWASP/Sans titre/3. CNIL.md",
+    "STAGE/BDD STAGE.md",
+    "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
+    "Développement Web/Cyber-Sec/OWASP/OWASP Top Ten/Top 10 des Attaques.md",
+    "Développement Web/Cyber-Sec/OWASP/Sans titre/4. OWASP.md",
     "Développement Web/Cyber-Sec/OWASP/Sans titre/2. PCI DSS.md",
+    "Pasted image 20230309121242.png",
+    "Développement Web/PNPM.md",
+    "Développement Web/VS Code/Extentions.md",
+    "Développement Web/VS Code",
+    "Développement Web/Cyber-Sec/OWASP/Sans titre/1. RGPD.md",
+    "Développement Web/Cyber-Sec/OWASP/OWASP Top Ten",
     "Développement Web/Cyber-Sec/OWASP/Sans titre",
     "Développement Web/Cyber-Sec/OWASP",
     "Développement Web/Cyber-Sec/Bonne prattique.md",
@@ -273,7 +291,6 @@
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-38-13.png",
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-53-41.png",
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-54-28.png",
-    "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 15-12-07.png",
     "DOSSIER PRO/DOSSIER Professionnel/Food-Mine/Activité 3.md",
     "DOSSIER PRO/DOSSIER Professionnel/Game-Crafting-Simulator/Activité 2.md",
     "DOSSIER PRO/DP STAGE.md",
@@ -288,8 +305,6 @@
     "Développement Web/React/React Router/Sans titre.md",
     "Développement Web/React/Tailwindcss/Installation.md",
     "DOSSIER PRO/DOSSIER Professionnel/imges",
-    "Développement Web/Base de Données/Trigger.md",
-    "Pense-Bête/A. Syntaxe MarkDown.md",
     "Pense-Bête",
     "DOSSIER PRO/DOSSIER Professionnel/Game-Crafting-Simulator",
     "DOSSIER PRO/DOSSIER Professionnel/Food-Mine",

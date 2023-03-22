@@ -1,0 +1,15 @@
+https://www.emailjs.com/
+https://roadmap.sh/
+https://accounts.zoho.eu/announcement/tfa-banner?servicename=AaaServer&serviceurl=https%3A%2F%2Faccounts.zoho.eu%2Fhome%23security%2Fdevice_logins
+https://www.tensorflow.org/js?hl=fr
+https://devdocs.io/
+https://9elements.github.io/fancy-border-radius/#54.50.55.49--.
+https://weatherstack.com/documentation
+https://regexr.com/
+https://sqlbolt.com/lesson/select_queries_with_aggregates
+https://www.sliderrevolution.com/resources/css-animation-examples/
+https://greensock.com/
+https://codepen.io/marco_fugaro/pen/XbxNVx
+https://cleanup.pictures/
+https://flatuicolors.com/palette/gb
+https://www.frontendmentor.io/

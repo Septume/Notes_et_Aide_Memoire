@@ -4,177 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bcde4e67528efaaf",
+        "id": "022abc15b8993abd",
         "type": "tabs",
         "children": [
           {
-            "id": "6aac0a0b92d39f60",
+            "id": "a40d48a7bd534463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Développement Web/Git/Remote.md",
+                "file": "CyberSec/Apprentissage/Apprentissage CyberSec - Index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e9ce826a7094853d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement Web/Cyber-Sec/Bonne prattique.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaf45862754a4cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58a07658962b8d66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/1. RGPD.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f61e8554f61038c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calibrage Chat GPT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "327fd995c3832d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSec/Liens web.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "312da641ad6c5ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement Web/Lien web.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8426d8dba11a9dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement Web/React/1. Create-React-App.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa20a798cce1b27b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calibrage Chat GPT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7588c81f5ccea4af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "add256fd2269f3b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bbe29be1ce7e390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAGE/BDD STAGE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d61a42d2695cc4e9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-09-01.png"
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Développement Web/Lien web.md",
+                "file": "CyberSec/Apprentissage/Apprentissage CyberSec - Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Développement Web/Lien web.md",
+                "file": "CyberSec/Apprentissage/Apprentissage CyberSec - Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Développement Web/Lien web.md"
+                "file": "CyberSec/Apprentissage/Apprentissage CyberSec - Index.md"
               }
             }
           }
@@ -301,53 +147,53 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "312da641ad6c5ed7",
+  "active": "a40d48a7bd534463",
   "lastOpenFiles": [
-    "CyberSec/Liens web.md",
-    "Développement Web/Lien web.md",
-    "Calibrage Chat GPT.md",
-    "Pasted image 20230309121242.png",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/10. Outils",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/9. Pentest",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/8. Cryptographie",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/7. Part-feu et Détection d'intrusion",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/6. Réseau Informatique",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/5. Programmation",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/4. Windows",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/3. Linux",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/2. Virtualisation et Cloud",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/1. Fonctionnement de l'ordinateur/1. Ram.md",
+    "CyberSec/Apprentissage/Apprentissage CyberSec - Index.md",
+    "CyberSec/Apprentissage/3. DIplômes",
+    "CyberSec/Apprentissage/1. Compétence technique à développer",
+    "1.Ram.md",
+    "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-09-01.png",
     "STAGE/BDD STAGE.md",
-    "Développement Web/Cyber-Sec/OWASP/Sans titre/0. Introduction.md",
+    "Développement Web/Sécurité/OWASP/Sans titre/0. Introduction.md",
+    "Calibrage Chat GPT.md",
     "Développement Web/React/1. Create-React-App.md",
+    "CyberSec/Liens web.md",
+    "Développement Web/Sécurité/OWASP/Sans titre/1. RGPD.md",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/1. Fonctionnement de l'ordinateur/3. UEFI.md",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/1. Fonctionnement de l'ordinateur/2. CPU.md",
+    "CyberSec/Apprentissage/1. Compétence technique à développer/1. Fonctionnement de l'ordinateur/4. BIOS.md",
+    "Développement Web/Langages/HTML/HTML - Index.md",
+    "Développement Web/Langages/HTML/1 - Code minimal.md",
+    "Développement Web/Lien web.md",
+    "Développement Web/FrameWork/React/1. Introduction.md",
+    "CyberSec/XSS.md",
+    "Pasted image 20230309121242.png",
     "Développement Web/Base de Données/Systeme, langage, outil.md",
     "Développement Web/Base de Données/PostgreSQL/- Intro.md",
     "Développement Web/Base de Données/PostgreSQL/- SQL CheatSheet -.jpg",
     "Développement Web/React/bonne pratique.md",
     "Développement Web/Node.JS/Démarrer avec Node.md",
-    "Développement Web/Cyber-Sec/OWASP/Sans titre/3. CNIL.md",
-    "Développement Web/Cyber-Sec/OWASP/OWASP Top Ten/Top 10 des Attaques.md",
-    "Développement Web/Cyber-Sec/OWASP/Sans titre/4. OWASP.md",
-    "Développement Web/Cyber-Sec/OWASP/Sans titre/2. PCI DSS.md",
-    "Développement Web/PNPM.md",
-    "Développement Web/VS Code/Extentions.md",
-    "Développement Web/VS Code",
-    "Développement Web/Cyber-Sec/OWASP/Sans titre/1. RGPD.md",
-    "Développement Web/Cyber-Sec/OWASP/OWASP Top Ten",
-    "Développement Web/Cyber-Sec/OWASP/Sans titre",
-    "Développement Web/Cyber-Sec/OWASP",
-    "Développement Web/Cyber-Sec/Bonne prattique.md",
-    "Développement Web/Git/Remote.md",
+    "Développement Web/Sécurité/OWASP/Sans titre/3. CNIL.md",
+    "Développement Web/Sécurité/OWASP/OWASP Top Ten/Top 10 des Attaques.md",
+    "Développement Web/Sécurité/OWASP/Sans titre/4. OWASP.md",
+    "Développement Web/Sécurité/OWASP/Sans titre/2. PCI DSS.md",
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 13-00-35.png",
-    "DOSSIER PRO/DOSSIER Professionnel/Game-Crafting-Simulator/Activité 3.md",
-    "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-09-01.png",
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-06-09.png",
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-00-18.png",
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-01-35.png",
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-20-36.png",
-    "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 13-56-43.png.md",
     "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-38-13.png",
-    "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-53-41.png",
-    "DOSSIER PRO/DOSSIER Professionnel/Food-Mine/Activité 3.md",
-    "DOSSIER PRO/DOSSIER Professionnel/Game-Crafting-Simulator/Activité 2.md",
-    "DOSSIER PRO/DP STAGE.md",
-    "DOSSIER PRO/ANNEXE DOSSIER PROFESSIONNEL.md",
-    "DOSSIER PRO/DOSSIER Professionnel/Food-Mine/Activité 2.md",
-    "DOSSIER PRO/DOSSIER Professionnel/imges",
-    "Pense-Bête",
-    "DOSSIER PRO/DOSSIER Professionnel/Game-Crafting-Simulator",
-    "DOSSIER PRO/DOSSIER Professionnel/Food-Mine",
-    "DOSSIER PRO/DOSSIER Professionnel",
-    "DOSSIER PRO"
+    "DOSSIER PRO/DOSSIER Professionnel/Capture d’écran du 2023-02-28 14-53-41.png"
   ]
 }
